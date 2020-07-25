@@ -1,0 +1,32 @@
+body {
+  font-family: "Avenir Next";
+}
+
+.home{
+  background-color:#FFEEFF
+  
+}
+.tab{
+  background-color:white;
+  float:left;
+  width:auto;
+  height:auto;
+}
+
+.top-wrapper{
+  width: auto;
+  border-bottom: 4px solid #dee7ec
+}
+
+.logo{
+  margin:40px;
+}
+
+.infoaccount{
+  float:left;
+}
+
+.account{
+  padding:10px;
+  margin:10px;
+}
