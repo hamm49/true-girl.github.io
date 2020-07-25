@@ -2,6 +2,10 @@ body {
   font-family: "Avenir Next";
 }
 
+li {
+  list-style: none;
+}
+
 .home{
   background-color:#FFEEFF
   
@@ -9,8 +13,7 @@ body {
 .tab{
   background-color:white;
   float:left;
-  width:auto;
-  height:auto;
+  padding: 33px 20px;
 }
 
 .top-wrapper{
