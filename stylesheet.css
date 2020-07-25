@@ -1,0 +1,54 @@
+body {
+  font-family: "Avenir Next";
+}
+
+li {
+  list-style: none;
+  float:left;
+  padding: 33px 20px;
+}
+
+.home{
+  background-color:#FFEEFF
+}
+
+.info{
+  background-color:#FFEEFF
+}
+
+.live{
+  background-color:#FFEEFF
+}
+
+.profile{
+  background-color:#FFEEFF
+}
+
+.contact{
+  background-color:#FFEEFF
+}
+
+.tab{
+  background-color:white;
+  float:left;
+  padding: 33px 20px;
+}
+
+h1 {
+  width: auto;
+  border-bottom: 4px solid #dee7ec
+}
+
+.logo{
+  margin:40px;
+  width:auto;
+}
+
+.infoaccount{
+  float:left;
+}
+
+.account{
+  padding:10px;
+  margin:10px;
+}
