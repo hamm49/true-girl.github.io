@@ -6,9 +6,8 @@ li {
   list-style: none;
   padding: 5px;
   width:1170px;
-  padding:0 15px;
   margin:0 auto;
-  float:right;
+  float:left;
 }
 
 .home{
