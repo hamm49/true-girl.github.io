@@ -46,6 +46,7 @@ input,textarea {
   padding:0 15px;
   margin:0 auto;
   float:left;
+  font-size: 20px;
 }
 
 h1 {
@@ -65,7 +66,7 @@ h1 {
   display:block;
   padding:10px;
   width:100px;
-  text-align: center
+  text-align: center;
 }
 
 .soundcloud{
@@ -75,7 +76,7 @@ h1 {
   display:block;
   padding:10px;
   width:100px;
-  text-align: center
+  text-align: center;
 }
 
 .bandcamp{
@@ -85,7 +86,7 @@ h1 {
   display:block;
   padding:10px;
   width:100px;
-  text-align: center
+  text-align: center;
   border:1px solid #dee7ec;
 }
 
@@ -96,7 +97,7 @@ h1 {
   display:block;
   padding:10px;
   width:100px;
-  text-align: center
+  text-align: center;
 }
 
 .submit{
