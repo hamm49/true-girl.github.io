@@ -2,7 +2,7 @@ body {
   font-family: "Avenir Next";
 }
 
-li {
+ul {
   list-style: none;
   width:1170px;
   padding:0 15px;
