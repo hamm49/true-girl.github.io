@@ -2,8 +2,9 @@ body {
   font-family: "Avenir Next";
 }
 
-ul {
+li {
   list-style: none;
+  float:left;
 
 }
 
@@ -52,6 +53,7 @@ input,textarea {
 h1 {
   width: auto;
   border-bottom: 2px solid #dee7ec;
+  margin-top: 100px;
 }
 
 .account{
