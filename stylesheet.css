@@ -4,10 +4,7 @@ body {
 
 ul {
   list-style: none;
-  width:1170px;
-  padding:0 15px;
-  margin:0 auto;
-  float:left;
+  
 }
 
 .home{
@@ -41,10 +38,14 @@ input,textarea {
 
 .tab{
   background-color:#FFCCFF;
-  float:left;
   position:fixed;
   top:0;
   z-index:10;
+  list-style: none;
+  width:1170px;
+  padding:0 15px;
+  margin:0 auto;
+  float:left;
 }
 
 h1 {
