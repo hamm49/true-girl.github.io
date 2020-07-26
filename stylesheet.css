@@ -18,6 +18,14 @@ ul {
   background-color:#FFEEFF;
 }
 
+.subscription{
+  margin: 10px;
+  background-color: #dee7ec;
+  border-radius: 10px;
+  display:block;
+  padding:10px;
+}
+
 .live{
   background-color:#FFEEFF;
 }
@@ -78,4 +86,8 @@ h1 {
   border-radius: 10px;
   display:block;
   padding:10px;
+}
+
+.submit{
+  display:block;
 }
