@@ -57,3 +57,26 @@ h1 {
   margin-bottom: 50px;
   background-color: #DDDDDD;
 }
+
+.twitter{
+  margin-right: 10px;
+  background-color:#55acee;
+  border-radius: 10px;
+  display:block;
+  padding:10px;
+}
+
+.soundcloud{
+  margin-right: 10px;
+  background-color: #FF6928;
+  border-radius: 10px;
+  display:block;
+  padding:10px;
+}
+
+.bandcamp{
+  background-color: white;
+  border-radius: 10px;
+  display:block;
+  padding:10px;
+}
