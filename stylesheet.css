@@ -55,7 +55,7 @@ input,textarea {
   z-index:10;
   list-style: none;
   text-align:center;
-  width:50%;
+  width:0 auto;
 }
 
 .top-wrapper h1 {
@@ -78,7 +78,7 @@ input,textarea {
   margin: 10px;
   background-color:#55acee;
   border-radius: 10px;
-  display:block;
+  display:inline-block;
   padding:10px;
   width:100px;
   text-align: center;
