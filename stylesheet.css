@@ -4,12 +4,11 @@ body {
 
 .tab li {
   list-style: none;
+  display:inline-block;
   float:left;
   margin:15px 15px;
   padding:15px 15px;
-  text-align:center;
-  font-size: 30px;
-  margin:0 auto
+  font-size: 24px;
 }
 
 div{
@@ -56,7 +55,7 @@ input,textarea {
   z-index:10;
   list-style: none;
   text-align:center;
-  margin: 100px auto;
+  width:50%;
 }
 
 .top-wrapper h1 {
@@ -67,6 +66,7 @@ input,textarea {
 .top-wrapper{
   text-align: center;
   margin:0 auto;
+  width:30%;
 }
 
 .account{
@@ -83,40 +83,41 @@ input,textarea {
   width:100px;
   text-align: center;
   float:left;
+  font-size: 20px;
 }
 
 .soundcloud{
   margin: 10px;
   background-color: #FF6928;
   border-radius: 10px;
-  display:block;
+  display:inline-block;
   padding:10px;
   width:100px;
   text-align: center;
-  float:left;
+  font-size: 20px;
 }
 
 .bandcamp{
   margin: 10px;
   background-color: white;
   border-radius: 10px;
-  display:block;
+  display:inline-block;
   padding:10px;
   width:100px;
   text-align: center;
   border:1px solid #dee7ec;
-  float:left;
+  font-size: 20px;
 }
 
 .subscription{
   margin: 10px;
   background-color: #dee7ec;
   border-radius: 10px;
-  display:block;
+  display:inline-block;
   padding:10px;
   width:100px;
   text-align: center;
-  float:left;
+  font-size: 20px;
 }
 
 .submit{
