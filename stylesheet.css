@@ -5,7 +5,7 @@ body {
 li {
   list-style: none;
   float:left;
-  margin-right: 15px;
+  margin:0 10px;
 }
 
 div{
@@ -55,6 +55,7 @@ input,textarea {
   padding:10px 30px;
   float:left;
   font-size: 24px;
+  align:center;
 }
 
 .top-wrapper h1 {
@@ -65,11 +66,6 @@ input,textarea {
 
 .top-wrapper img{
   text-align: center;
-}
-
-.infoaccount{
-  float:left;
-  width:50%;
 }
 
 .account{
