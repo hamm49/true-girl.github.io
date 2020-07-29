@@ -48,7 +48,7 @@ input,textarea {
   border:1px solid #dee7ec;
 }
 
-.tab{
+ul{
   background-color:#FFCCFF;
   position:fixed;
   z-index:10;
@@ -69,6 +69,11 @@ input,textarea {
 
 .account{
   margin-bottom: 50px;
+  margin:0 auto;
+}
+
+.btn{
+  text-align: center;
   margin:0 auto;
 }
 
