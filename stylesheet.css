@@ -51,7 +51,6 @@ input,textarea {
 .tab{
   background-color:#FFCCFF;
   position:fixed;
-  top:0;
   z-index:10;
   list-style: none;
   text-align:center;
@@ -94,6 +93,7 @@ input,textarea {
   width:100px;
   text-align: center;
   font-size: 16px;
+  float:left;
 }
 
 .bandcamp{
@@ -106,6 +106,7 @@ input,textarea {
   text-align: center;
   border:1px solid #dee7ec;
   font-size: 16px;
+  float:left;
 }
 
 .subscription{
@@ -117,6 +118,7 @@ input,textarea {
   width:100px;
   text-align: center;
   font-size: 16px;
+  float:left;
 }
 
 .submit{
