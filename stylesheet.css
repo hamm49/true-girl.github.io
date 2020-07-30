@@ -48,14 +48,14 @@ input,textarea {
   border:1px solid #dee7ec;
 }
 
-ul{
+.tab{
   background-color:#FFCCFF;
   position:fixed;
-  top: auto;
+  top: 0;
   z-index:10;
   list-style: none;
   text-align:center;
-  width:0 auto;
+  margin:0 auto;
 }
 
 .top-wrapper h1 {
