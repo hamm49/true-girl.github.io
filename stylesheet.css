@@ -65,12 +65,13 @@ input,textarea {
 
 .top-wrapper{
   text-align: center;
-  margin:200px  auto auto 0;
+  margin:100px  auto auto 0;
 }
 
 .account{
   margin-bottom: 50px;
   margin:0 auto;
+  text-align: center;
 }
 
 .btn{
